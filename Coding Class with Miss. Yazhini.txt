@@ -1,0 +1,6 @@
+1. Print command (The computer will say something)
+2. Variables (Place holder for a value)
+3. Comments (You can tell a person readind your code a description of what's happening)
+4. Casting (Changing a data type from one thing to another)
+5. Array (You can give a variable more than one value)
+6. Length ( The computer can figure out the number of characters in the variable)
